@@ -23,7 +23,7 @@ div#right-column {width: 160px; margin-top: 60px; }
 #header-navigation { left: 260px; top: 0; margin: 0; padding: 0; height: 49px; width: 760px; }
 #header-navigation div { margin: 0 !important; }
 #header-navigation .navigation { box-shadow: 0px 0px 0px #9197a3; }
-#header-navigation a { display: inline-block;  padding: 16px; margin: 0; border-right: none; text-decoration: none; color: #fff; }
+#header-navigation a { display: inline-block; padding: 16px; margin: 0; border-right: none; text-decoration: none; color: #fff; }
 #header-navigation a:hover, #header-navigation a:active, #header-navigation a:focus { color: #fff !important; background: #4C3A2C;}
 #header-navigation .navigation a:hover, #header-navigation .navigation a:active, #header-navigation .navigation a:focus { color: #fff !important; }
 
