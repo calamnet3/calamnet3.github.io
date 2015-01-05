@@ -1,7 +1,7 @@
 @import url("uniform.utopia.css"); 
 
 body { 
-color: #fff; 
+color: #9197a3; 
 font-family: Arial, Helvetica, sans-serif; 
 background-color: #e9eaed;
 background-repeat: no-repeat;
@@ -33,7 +33,7 @@ div#right-column {width: 160px; margin-top: 60px; }
 .navigation a:hover, .navigation a:active, .navigation a:focus  { color: #000 !important; background: #d7d7d7; }
 .navigation a span.advice-message { color: #fff !important; }
 .navigation a span.advice-message:after { content: ' NEW'; font-weight: bold; }
-#game-navigation .navigation, #game-navigation .current-date { background: #461c0c; border: 1px solid #2e1005; border-radius:4px; }
+#game-navigation .navigation, #game-navigation .current-date { background: #fff; border: 1px solid #dfe0e4; border-radius:4px; }
 #game-navigation .current-date { background: #eac575; border-color: #7f6806; box-shadow: 0px 0px 4px #000; padding: 5px 0; font-weight: bold; color: #000; }
 
 #game-navigation { }
