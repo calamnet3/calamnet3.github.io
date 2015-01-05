@@ -37,8 +37,8 @@ div#right-column {width: 160px; margin-top: 60px; }
 #game-navigation .current-date { box-shadow: 0px 0px 2px #9197a3; padding: 5px 0; font-weight: bold; color: #9197a3; }
 
 #game-navigation { }
-#game-navigation a { line-height: 0.6em; color: #fff; }
-#game-navigation a:hover, #game-navigation a:active, #game-navigation a:focus { box-shadow: none; color: #fff; text-decoration: underline; }
+#game-navigation a { line-height: 0.6em; color: #9197a3; }
+#game-navigation a:hover, #game-navigation a:active, #game-navigation a:focus { box-shadow: none; color: #9197a3; text-decoration: underline; }
 
 /* Account */
 #account-container { top: 75px; left: 0; width: 100px; height: 50px; right: auto; padding-top: 10px; position: absolute; }
@@ -57,7 +57,7 @@ div#right-column {width: 160px; margin-top: 60px; }
 /* Middle */
 #middle { width: 1020px; margin: 0 auto !important; padding: 0; }
 
-a, a:link, a:visited { color: #4C3A2C;  text-decoration: none; } 
+a, a:link, a:visited { color: #9197a3; text-decoration: none; } 
 a.highlighted { color: #E68910; }
 a.info-link { font-size: 12px !important; }
 a:focus, a:hover, a:active  { color: #fff; }
@@ -161,10 +161,10 @@ td#new-royal-command-content p.advice-message { width: auto !important; }
 
 /* Game-Content */
 .game-content { margin-top: -2px; width: 725px; color: #9197a3; border-top-right-radius:4px; border-bottom-left-radius:4px; border-bottom-right-radius:4px; }
-.game-content table { margin-bottom: 0; background: #d7d7d7; color: #9197a3; }
+.game-content table { margin-bottom: 0; background: #d7d7d7; color: #000; }
 .game-content table+p { border-radius: 4px; }
 .game-content thead th { font-weight: normal; font-size: 12px !important; background: #747474; color: #fff; text-align: center !important; }
-.game-content tbody th { border-left: 1px solid #747474; }
+.game-content tbody th { border-left: 1px thin #747474; }
 .game-content tbody th:first-child { border-left: none; }
 .game-content tbody td { padding-right: 20px; }
 .game-content tbody td input, .game-content tbody td textarea { background: #fff; color: #9197a3; }
